@@ -181,6 +181,46 @@ Um domínio é um apelido para um IP que facilita memorizar
 
 Mostra em que regiões já propagou e também pelos registros do DNS
 
+https://dnschecker.org/
+
 https://www.whatsmydns.net/
 
 https://www.intodns.com/
+
+<p>Descubra nosso incrível Pack Typebot repleto de fluxos de automação prontos para impulsionar o seu negócio! 🌐
+<p>👉 <a href="https://packtypebot.com.br">packtypebot.com.br</a>
+
+<p>✅ Área de Membros
+<p>✅ Atualizações frequentes
+<p>✅ Acesso Vitalício
+<p>✅ Template Website Typebot (HTML5, CSS e JS)
+
+> Recursos Especiais:
+
+<p>💻 Painel Administrativo 3.0
+<p>🗃️ Arquivos para montar sua própria API
+
+> Fluxos Personalizados:
+
+<p>🎰 Casa Lotérica (Com Resultado em tempo Real)
+<p>🍔 Delivery (Com Calculadora de Itens)
+<p>🏠 Imobiliária (Atendimento por IA)
+<p>🚗 Loja de Veículos (Com consulta tabela FIPE)
+<p>🍰 Doceria (Com Calculadora de Itens)
+<p>💈 Barbearia (Com sistema de Agendamento)
+<p>🦷 Clínica Dentaria (Atendimento por IA)
+<p>💆 Clínica de Estética
+<p>💼 Consultas de Dados (CNPJ, CEP, CORREIOS e muito mais...)
+<p>📶 Provedor de Internet
+<p>🏋️ Academia
+<p>⚖️ Advocacia
+<p>📺 IPTV
+<p>🎰 Igaming
+<p>🤖 ChatGPT
+
+> Extras Incríveis:
+
+<p>📦 Pacote com +400 Funis para estudo
+<p>🎥 Incluído +100 Vídeo Aulas
+
+<p>Explore o potencial da automação com Typebot - Sua jornada para a eficiência começa agora! 🚀
