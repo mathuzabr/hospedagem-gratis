@@ -39,8 +39,6 @@ Para arquivos e pastas maiores criar uma conta de FTP. Minha sugestão é usar o
 
 ### Freehostingeu
 
-Este foi indicação do colega Jorge Miguel do grupo Laravel Brasil do Facebook
-
 https://www.freehostingeu.com/
 
 A vantagem deste é que nem domínio ele exige. Você recebe um subdomínio. Veja um que tenho lá: http://ribafs.eu3.org/
